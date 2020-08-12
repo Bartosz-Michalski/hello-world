@@ -1,2 +1,5 @@
 # hello-world
-the journey has just begun
+
+The journey has just begun...
+
+There is no way back!
